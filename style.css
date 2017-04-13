@@ -1,0 +1,165 @@
+.my-navbar {
+	background: rgb(67,140,195);
+}
+
+#menu {
+	color: yellow;
+}
+
+#active {
+	color: yellow;
+}
+
+#etext{
+	color: yellow;
+}
+
+#ftext{
+	color: white;
+}
+
+.new {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-style: italic;
+
+    line-height: 1.42857143;
+    color:white;
+    /*background-color: rgb(88,158,210);*/
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+
+}
+.grey {
+	background:rgb(234, 236, 239);
+}
+
+
+
+
+.profile {
+	    width: 71%;
+   height: 100vh;
+    border: 2px solid red;
+    margin-left: 15px;
+}
+
+.edit {
+	    width: 104%;
+    height: 6vh;
+    margin-left: -2%;
+    border: 2px solid green;
+}
+
+.image {
+	border: 2px solid coral;
+	height: 10vh;
+	width: 50%;
+}
+
+.right{
+	float: right;
+}
+
+.bottom {
+	margin-bottom: 0px;
+}
+
+.leftover{
+	margin-top: 64px;
+}
+
+.white {
+	background: white;
+}
+
+.border{
+	border-left:  4px solid grey;
+	border-top: 4px solid grey;
+}
+
+.text {
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.left {
+	float: right;
+	margin-top: -29px;
+}
+
+.text2 p{
+    font-size: 15px;
+    margin-top: -44px;
+    margin-left: 49px;
+}
+
+.master{
+	background: grey;
+}
+
+.personal {
+	margin-top: 85px;
+}
+
+.personal2{
+	margin-top: 50px;
+}
+
+.middle {
+	margin-left: 22px;
+
+}
+
+/*.bg{
+	background: grey;
+}*/
+
+.blue {
+	color: black;
+	text-color : black;
+}
+
+li p {
+	color: black;
+}
+
+.ui {
+	margin-top: -13px;
+}
+
+.twi{
+	color: rgb(117,192,214);
+}
+
+.fac {
+	color: rgb(71,120,164);
+}
+
+.goog {
+	color: rgb(189,96,81);
+}
+.pak {
+	color: rgb(121,165,86);
+}
+.you {
+	color: rgb(231,174,95);
+}
+
+.ss {
+	color: rgb(72,147,199);
+}
+
+.app {
+	color: rgb(211,122,81);
+}
+
+.ar {
+	color: rgb(222,84,66);
+}
+
+.abt {
+	padding:50px 10px;
+}
